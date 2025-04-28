@@ -1,0 +1,7 @@
+name: StarterPackLite
+version: '1.0-SNAPSHOT'
+main: me.not_ryuzaki.starterPackLite.StarterPackLite
+api-version: '1.21'
+author: not_ryuzaki
+description: SimpleStarterKit is a lightweight Minecraft plugin for Paper/Spigot servers.
+  It automatically gives new players a starter kit with items you specify in the configuration when they join the server for the first time.
