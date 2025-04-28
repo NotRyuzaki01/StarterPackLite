@@ -1,3 +1,4 @@
+# Use this for things like armor and tools (unstackable items).
 items:
   - CHAINMAIL_HELMET
   - CHAINMAIL_CHESTPLATE
@@ -5,5 +6,7 @@ items:
   - CHAINMAIL_BOOTS
   - IRON_SWORD
   - IRON_PICKAXE
+
+# Use this for things like food and blocks (stackable items).
 consumables:
   BREAD: 10
